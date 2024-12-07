@@ -55,6 +55,6 @@
 
 ###
 
-<p align="left">At the moment I have created my own web studio, where we create websites, applications and much more, you can see it on the website:<br><br>webalt.xyz<br><br>I'm looking for guys who are ready to help with the development of the studio )</p>
+<a align="left" href="webalt.xyz">webalt.xyz</a> 
 
 ###
