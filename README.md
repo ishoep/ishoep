@@ -58,12 +58,12 @@
 </div>
 
 
-<p align="left">Success doesn't come to you. You go to it.</p>
+<h3 align="left">Success doesn't come to you. You go to it.</h3>
 
 ###
 
 <div align="left">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZqc3B6b2xpcnhvNHByeW0xNjVoZDJsZXF2c3VxZWNtOGs5MHNyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif"  />
+  <img height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZqc3B6b2xpcnhvNHByeW0xNjVoZDJsZXF2c3VxZWNtOGs5MHNyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif"  />
 </div>
 
 ###
