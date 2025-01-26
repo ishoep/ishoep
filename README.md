@@ -63,5 +63,8 @@
 <div align="left">
   <img height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZqc3B6b2xpcnhvNHByeW0xNjVoZDJsZXF2c3VxZWNtOGs5MHNyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif"  />
 </div>
+<br>
+my telegram: @qdweb
+ig: @rszxkv
 
 ###
