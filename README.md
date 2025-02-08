@@ -22,7 +22,7 @@
 </div>
 
 
-<h3 align="left">Success doesn't come to you. You go to it.</h3>
+<h3 align="left">Success doesn't come to you, You go to it</h3>
 
 ###
 
