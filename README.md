@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
     
   ![snake gif](https://github.com/ishoep/ishoep/blob/output/github-snake-dark.svg)
 </div>
